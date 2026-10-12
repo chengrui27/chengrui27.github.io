@@ -2,8 +2,6 @@
 
 Personal homepage: https://chengrui27.github.io/
 
-Static HTML and CSS. Public edition includes an overview of UAV motion planning and two detailed engineering projects. Details and imagery for research under review are omitted. Videos remain placeholders.
-
-Files: index.html, nmpc.html, rmua.html, style.css, favicon.svg, nmpc.jpg, rmua.jpg, .nojekyll.
+Static HTML and CSS portfolio with three projects: REI quadrotor trajectory planning, NMPC aerial load transportation, and RoboMaster autonomous navigation. REI is under review at ICRA 2027; no acceptance is claimed. Videos remain placeholders.
 
 GitHub Pages: main branch, repository root.
